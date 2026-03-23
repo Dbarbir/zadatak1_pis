@@ -13,6 +13,7 @@ namespace zadatak1_pis
         {
             Klasa k = new Klasa();
             Console.WriteLine(k.poruka);
+            int a = 6;
         }
     }
 }
